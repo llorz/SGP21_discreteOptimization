@@ -11,7 +11,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
 
 ## Example 01: Minimize the area-preserving and the angle-preserving energy
 <p align="center">
-  <img align="center"  src="/figs/eg_box.png", width=800>
+  <img align="center"  src="/figs/eg_box.jpg", width=800>
 </p>
 
 - In this example we use our solver to minimize the **area-preserving** energy (Isometry) and **angle-preserving** energy (conformality)
@@ -23,7 +23,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
 
 ## Example 02: Minimize descriptor-preserving energy
 <p align="center">
-  <img align="center"  src="/figs/eg_sphere.png", width=800>
+  <img align="center"  src="/figs/eg_sphere.jpg", width=800>
 </p>
 
 - In this example, we use our solver to minimize the **descriptor-preserving** energy
@@ -33,7 +33,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
 
 ## Example 03: Alternative to the multiplicative operator
 <p align="center">
-  <img align="center"  src="/figs/eg_faust.png", width=800>
+  <img align="center"  src="/figs/eg_faust.jpg", width=800>
 </p>
 
 - In this example, we compare two settings:
@@ -44,7 +44,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
 
 ## Example 04: Minimize the Laplacian Commutativity
 <p align="center">
-  <img align="center"  src="/figs/eg_smal.png", width=800>
+  <img align="center"  src="/figs/eg_smal.jpg", width=800>
 </p>
 
 - In this example, we test our discrete solver on a set of SMAL animal shape pairs on minimizing the Laplacian Commutativity energy from random initialization. 
