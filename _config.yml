@@ -1,0 +1,22 @@
+bookdown::gitbook:
+  highlight: tango
+  css: style.css
+  config:
+    toc:
+      toc_float: true
+      toc_collapsed: true
+      collapse: section
+      before: |
+        <li><a href="./">A Brief Review of Differentiable Geometry</a></li>
+      after: |
+        <li>
+        &nbsp;&nbsp; Contact:
+        <a href="http://www.ren-jing.com/"> &nbsp;&nbsp;&nbsp;Jing Ren</a></li>
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: no
+bookdown::epub_book: default
