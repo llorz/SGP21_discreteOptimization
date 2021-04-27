@@ -53,8 +53,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
 
 ## Comments
 - Please let us know (jing.ren@kaust.edu.sa) if you have any question regarding the algorithms/paper ʕ•ﻌ•ʔ or you find any bugs in the code ԅ(¯﹃¯ԅ)
-
-
+- This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). For any commercial uses or derivatives, please contact us (jing.ren@kaust.edu.sa, melzismn@gmail.com, peter.wonka@kaust.edu.sa, maks@lix.polytechnique.fr).
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). For any commercial uses or derivatives, please contact us (jing.ren@kaust.edu.sa, peter.wonka@kaust.edu.sa, maks@lix.polytechnique.fr).
+
