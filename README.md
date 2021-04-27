@@ -1,7 +1,19 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 # Discrete Optimization for Shape Matching
 This is an example code for the paper "Discrete Optimization for Shape Matching" by Jing Ren, Simone Melzi, Peter Wonka, and Maks Ovsjanikov.
 
-In this paper we propose a *discrete solver* that can be used to optimize different functional map based energies. Specifically, for a given functional map based energy $E(C)$
+In this paper we propose a *discrete solver* that can be used to optimize different functional map based energies. Specifically, for a given functional map based energy $\alpha$
 
 <p align="center">
   <img align="center"  src="/figs/overview.png", width=800>
