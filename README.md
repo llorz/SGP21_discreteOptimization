@@ -14,7 +14,7 @@ In this paper we propose a *discrete solver* that can be used to optimize differ
   <img align="center"  src="/figs/eg_box.png", width=800>
 </p>
 
-- In this example we use our solver to minimize the **area-preserving** energy (Isometry) and **angle-preserving** energy (conformality)
+- In this example we use our solver to minimize the **area-preserving** energy E1 (Isometry) and **angle-preserving** energy E2 (conformality)
 - We test on two shape pairs (S1, S2) and (S1, S3), where S2 has the same surface area as S1, and S3 is conformal to S1.
 - We compare our discrete solver (D) to the standard continuous solver (C). 
 - We can see that, using our discrete solver on minimizing the area-preserving energy on shape pair (S1, S2), and minimizing the angle-preserving energy on shape pair (S1, S3) leads to more desirable pointwise maps than the other setting. 
