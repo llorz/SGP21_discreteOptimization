@@ -1,9 +1,8 @@
 
 # Discrete Optimization for Shape Matching
 This is an example code for the paper "Discrete Optimization for Shape Matching" 
-<!---
 by [Jing Ren](https://ren-jing.com/), [Simone Melzi](https://sites.google.com/site/melzismn/), [Peter Wonka](http://peterwonka.net/), and [Maks Ovsjanikov](http://www.lix.polytechnique.fr/~maks/).
---->
+
 
 In this paper we propose a *discrete solver* that can be used to optimize different functional map based energies. Specifically, for a given functional map based energy E(C), our solver can minimize the input energy with the hard constraint that the functional map C is proper, i.e., corresponding to a pointwise map. 
 <p align="center">
